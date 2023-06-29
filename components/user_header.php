@@ -19,7 +19,8 @@
 
       <nav class="navbar">
          <a href="home.php">Home</a>
-         <a href="about.php">Produk</a>
+         <a href="about.php">Tentang Kami</a>
+         <a href="produk.php">Produk</a>
          <!-- <a href="orders.php">orders</a>
          <a href="shop.php">shop</a> -->
          <a href="jasa.php">Jasa</a>
